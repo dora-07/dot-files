@@ -1,0 +1,33 @@
+[global_config]
+  always_on_top = True
+  title_use_system_font = False
+  title_font = Noto Sans 15
+[keybindings]
+[profiles]
+  [[default]]
+    icon_bell = False
+    background_color = "#241f31"
+    background_darkness = 0.85
+    background_type = transparent
+    cursor_blink = False
+    cursor_color = "#aaaaaa"
+    font = Monospace 14
+    foreground_color = "#33d17a"
+    show_titlebar = False
+    scrollbar_position = hidden
+    palette = "#000000:#cd0000:#00cd00:#cdcd00:#f8e45c:#cd00cd:#00cdcd:#faebd7:#404040:#ff0000:#00ff00:#ffff00:#0000ff:#ff00ff:#00ffff:#ffffff"
+    use_system_font = False
+  [[New Profile]]
+    background_color = "#002b36"
+    cursor_color = "#aaaaaa"
+    foreground_color = "#839496"
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+      profile = default
+[plugins]
