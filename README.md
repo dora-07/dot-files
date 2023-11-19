@@ -24,16 +24,16 @@
 
 ![](/images/configbashtopcmantrix.png)
 
-#### Applications Used Above
+#### Applications On Screen
 [✩ vim](https://www.vim.org/)  [✩ bashtop](https://github.com/aristocratos/bashtop)  [✩ cmatrix](https://github.com/abishekvashok/cmatrix)
 
 ![](/images/cavacmus.png)
 
-#### Applications Used Above
+#### Applications On Screen
 [✩ cmus](https://cmus.github.io/)  [✩ cava](https://github.com/karlstav/cava) 
 
 ![](/images/aniclimpv.png)
 
-#### Applications Used Above
+#### Applications On Screen
 [✩ ani-cli](https://github.com/pystardust/ani-cli)  [✩ mpv](https://github.com/mpv-player/mpv)
 
